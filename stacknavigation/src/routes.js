@@ -16,7 +16,8 @@ function Routes() {
     return (
         <Stack.Navigator initialRouteName="User" screenOptions={ {  headerStyle: Styles.header,
                                                                     headerTintColor: '#fff', } }>
-            <Stack.Screen name="Main" component={DashboardRoutes} />
+            <Stack.Screen name="Home" component={DashboardRoutes} />
+            <Stack.Screen name="Main" component={Main} />
             <Stack.Screen name="User" component={User} options={{ title: 'User' }}/>
         </Stack.Navigator>
     )

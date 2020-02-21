@@ -5,7 +5,7 @@ import { Button, Text, View, StyleSheet } from 'react-native'
 function User({ navigation: { navigate, push, goBack } }) {
 
     function navigateToSettings() {
-        navigate('Main', { screen: 'Settings' })
+        navigate('Home', { screen: 'Settings' })
     }
 
     return (

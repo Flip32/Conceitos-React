@@ -2,11 +2,7 @@ import React from 'react'
 import { Button, Text, View, StyleSheet } from 'react-native'
 
 
-function User({ navigation: { navigate, push, goBack } }) {
-
-    function navigateToSettings() {
-        navigate('Home', { screen: 'Settings' })
-    }
+function User({ navigation: { navigate} }) {
 
     return (
         <View style={{flex: 1, backgroundColor: '#cd54ff'}}>
@@ -15,15 +11,6 @@ function User({ navigation: { navigate, push, goBack } }) {
             </Text>
             <View style={Styles.button}>
                 <Button title="Go to Main" onPress={() => navigate('Main')}/>
-            </View>
-            <View style={Styles.button}>
-                <Button title="Go Back" onPress={() => goBack()}/>
-            </View>
-            <View style={Styles.button}>
-                <Button title="Push to Main" onPress={() => push('Main')}/>
-            </View>
-            <View style={Styles.button}>
-                <Button title="Go to Settings" onPress={ navigateToSettings }/>
             </View>
 
         </View>

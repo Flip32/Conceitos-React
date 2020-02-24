@@ -1,5 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="825d899f-37a3-4a75-8fba-7cc1cba22f76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/loja-virtual/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/server.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/src/assets/images/backgroundSvg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/src/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/src/assets/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/src/components/Header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/src/components/Header/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/src/pages/Cart/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/src/pages/Cart/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/src/pages/Home/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/src/pages/Home/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/src/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/src/services/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/src/store/modules/cart/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/src/store/modules/cart/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/src/store/modules/rootReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/src/styles/global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/src/util/format.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rotas/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/rotas/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rotas/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/rotas/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rotas/android/app/src/main/java/com/rotas/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/rotas/android/app/src/main/java/com/rotas/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rotas/components/User/Index.js" beforeDir="false" afterPath="$PROJECT_DIR$/rotas/components/User/Index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rotas/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/rotas/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rotas/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/rotas/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rotas/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/rotas/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -7,11 +68,102 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1XnsyGjbcZFssxhNpwwcOwquIw8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/native01/src/pages/User" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/native01/src/pages/Main" />
+      <recent name="$PROJECT_DIR$/native01/android" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/native01/src/pages/User" />
+      <recent name="$PROJECT_DIR$/rotas/components" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="825d899f-37a3-4a75-8fba-7cc1cba22f76" name="Default Changelist" comment="" />
+      <created>1581693445562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581693445562</updated>
+      <workItem from="1581693448729" duration="2741000" />
+      <workItem from="1581697790149" duration="1623000" />
+      <workItem from="1581700952380" duration="2256000" />
+      <workItem from="1581710124964" duration="3180000" />
+      <workItem from="1581718822755" duration="61000" />
+      <workItem from="1581722413062" duration="2442000" />
+      <workItem from="1581769720340" duration="1026000" />
+      <workItem from="1581771133886" duration="115000" />
+      <workItem from="1581771277704" duration="4401000" />
+      <workItem from="1581775717448" duration="2382000" />
+      <workItem from="1581778126374" duration="80000" />
+      <workItem from="1581778228186" duration="4554000" />
+      <workItem from="1581787774021" duration="11693000" />
+      <workItem from="1582237511055" duration="4406000" />
+      <workItem from="1582320374054" duration="5325000" />
+      <workItem from="1582326055282" duration="2425000" />
+      <workItem from="1582372235296" duration="8357000" />
+      <workItem from="1582390538141" duration="12975000" />
+      <workItem from="1582413342426" duration="1642000" />
+      <workItem from="1582460771379" duration="3120000" />
+      <workItem from="1582465233000" duration="3582000" />
+      <workItem from="1582475155820" duration="4011000" />
+      <workItem from="1582551613777" duration="6763000" />
+      <workItem from="1582561342605" duration="8930000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="659" y="381" width="945" height="476" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1582476368203">
+      <screen x="0" y="249" width="1920" height="831" />
+    </state>
+    <state x="659" y="381" width="945" height="476" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/1920.222.1280.720/0.249.1920.831@1920.222.1280.720" timestamp="1582476368203" />
+    <state x="2153" y="386" width="803" height="416" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582460867554">
+      <screen x="1920" y="222" width="1280" height="720" />
+    </state>
+    <state x="2153" y="386" width="803" height="416" key="#com.intellij.fileTypes.FileTypeChooser/1920.222.1280.720/0.249.1920.831@1920.222.1280.720" timestamp="1582460867554" />
+    <state x="2286" y="430" width="537" height="328" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582468781110">
+      <screen x="1920" y="222" width="1280" height="720" />
+    </state>
+    <state x="2286" y="430" width="537" height="328" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.222.1280.720/0.249.1920.831@1920.222.1280.720" timestamp="1582468781110" />
+    <state x="217" y="204" width="1445" height="831" key="SettingsEditor" timestamp="1582476370701">
+      <screen x="0" y="249" width="1920" height="831" />
+    </state>
+    <state x="217" y="204" width="1445" height="831" key="SettingsEditor/1920.222.1280.720/0.249.1920.831@1920.222.1280.720" timestamp="1582476370701" />
   </component>
 </project>

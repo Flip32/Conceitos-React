@@ -24,19 +24,20 @@ class Home extends Component{
         this.setState({ products: data })
     }
 
-    handleAddProduct = product => {
+    handleAddProduct = id => {
         // this.props.dispatch
         // const { dispatch } = this.props //Com a conversão das actions em props, poderemos usar diretamente uma action como props
-
         // dispatch(CartActions.addToCart(product))
 
         // Nova sintaxe após o mapDispatchToProps
-        const { addToCart } = this.props
-        addToCart(product)
+        const { addToCartRequest } = this.props
+        //Antes do middleware, repassava o product inteiro..
+        addToCartRequest(id)
     }
 
     render() {
         const { products } = this.state
+        const { amount } = this.props
         return (
             <ProductList>
                 { products.map(product => (
@@ -45,9 +46,9 @@ class Home extends Component{
                              alt={ product.title } />
                         <strong> { product.title } </strong>
                         <span> { product.priceFormatted } </span>
-                        <button type="button" onClick={() => this.handleAddProduct(product)}>
+                        <button type="button" onClick={() => this.handleAddProduct(product.id)}>
                             <div>
-                                <MdAddShoppingCart size={16} color="fff"/> 3
+                                <MdAddShoppingCart size={16} color="fff"/> { amount[product.id] || 0}
                             </div>
                             <span> ADD TO CART </span>
                         </button>
@@ -57,7 +58,15 @@ class Home extends Component{
         )
     }
 }
+// converte state em propriedades
+const mapToStateToProps = state => ({
+    amount: state.cart.reduce((amount, product) => {
+        amount[product.id] = product.amount;
+        return amount
+    }, {})
+})
+
 // converte actions em propriedades
 const mapDispatchToProps = dispatch => bindActionCreators( CartActions, dispatch)
 
-export default connect(null, mapDispatchToProps)(Home);
+export default connect(mapToStateToProps, mapDispatchToProps)(Home);

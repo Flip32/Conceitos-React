@@ -2,49 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="825d899f-37a3-4a75-8fba-7cc1cba22f76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/loja-virtual/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/server.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/src/assets/images/backgroundSvg.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/src/assets/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/src/assets/images/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/src/components/Header/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/src/components/Header/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/src/pages/Cart/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/src/pages/Cart/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/src/pages/Home/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/src/pages/Home/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/src/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/src/serviceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/src/services/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/src/store/modules/cart/actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/src/store/modules/cart/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/src/store/modules/rootReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/src/styles/global.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/src/util/format.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loja-virtual/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rotas/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/rotas/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rotas/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/rotas/android/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rotas/android/app/src/main/java/com/rotas/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/rotas/android/app/src/main/java/com/rotas/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rotas/components/User/Index.js" beforeDir="false" afterPath="$PROJECT_DIR$/rotas/components/User/Index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rotas/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/rotas/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rotas/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/rotas/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rotas/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/rotas/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,17 +52,18 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/native01/src/pages/Main" />
-      <recent name="$PROJECT_DIR$/native01/android" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/native01/src/pages/User" />
       <recent name="$PROJECT_DIR$/rotas/components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/loja-virtual/src/store/modules/cart" />
+      <recent name="$PROJECT_DIR$/native01/src/pages/Main" />
+      <recent name="$PROJECT_DIR$/native01/android" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -138,7 +99,10 @@
       <workItem from="1582465233000" duration="3582000" />
       <workItem from="1582475155820" duration="4011000" />
       <workItem from="1582551613777" duration="6763000" />
-      <workItem from="1582561342605" duration="8930000" />
+      <workItem from="1582561342605" duration="9015000" />
+      <workItem from="1582647449762" duration="9447000" />
+      <workItem from="1582831964596" duration="3387000" />
+      <workItem from="1582842265791" duration="3551000" />
     </task>
     <servers />
   </component>
@@ -157,13 +121,17 @@
       <screen x="1920" y="222" width="1280" height="720" />
     </state>
     <state x="2153" y="386" width="803" height="416" key="#com.intellij.fileTypes.FileTypeChooser/1920.222.1280.720/0.249.1920.831@1920.222.1280.720" timestamp="1582460867554" />
+    <state x="2243" y="322" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582647604576">
+      <screen x="1920" y="222" width="1280" height="720" />
+    </state>
+    <state x="2243" y="322" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.222.1280.720/0.249.1920.831@1920.222.1280.720" timestamp="1582647604576" />
     <state x="2286" y="430" width="537" height="328" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582468781110">
       <screen x="1920" y="222" width="1280" height="720" />
     </state>
     <state x="2286" y="430" width="537" height="328" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.222.1280.720/0.249.1920.831@1920.222.1280.720" timestamp="1582468781110" />
-    <state x="217" y="204" width="1445" height="831" key="SettingsEditor" timestamp="1582476370701">
+    <state x="217" y="204" width="1445" height="831" key="SettingsEditor" timestamp="1582647670467">
       <screen x="0" y="249" width="1920" height="831" />
     </state>
-    <state x="217" y="204" width="1445" height="831" key="SettingsEditor/1920.222.1280.720/0.249.1920.831@1920.222.1280.720" timestamp="1582476370701" />
+    <state x="217" y="204" width="1445" height="831" key="SettingsEditor/1920.222.1280.720/0.249.1920.831@1920.222.1280.720" timestamp="1582647670467" />
   </component>
 </project>

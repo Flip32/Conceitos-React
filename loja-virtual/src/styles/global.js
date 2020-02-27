@@ -1,5 +1,6 @@
 import { createGlobalStyle } from 'styled-components'
 
+import 'react-toastify/dist/ReactToastify.css'
 import background from '../assets/images/backgroundSvg.svg'
 
 export default createGlobalStyle `
